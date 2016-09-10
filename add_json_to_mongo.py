@@ -16,7 +16,7 @@ with open('reviews_Video_Games.json') as data_file:
         i += 1
 # for d in posts.find()[:10]:
 #     print d
-print i
+print(i)
 # db.drop_collection('postings_collection')
 
-print conn.database_names()
+print(conn.database_names())
